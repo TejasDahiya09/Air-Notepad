@@ -5,6 +5,8 @@ No keyboard. No mouse. Just your hands.
 
 This project is fully interactive and supports **tool switching**, **color selection**, and **drawing in the air**.
 
+Last updated: 2026-04-22.
+
 ---
 
 ## 🚀 Features
